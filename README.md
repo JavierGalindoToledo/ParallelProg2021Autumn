@@ -12,7 +12,7 @@ The following parallel programming technologies are considered in practice:
 
 ### Parallel programming technologies
 ### `MPI`
-  * **Windows (MSVC)**
+  * **Windows (`MSVC`)**
   * Rectangular method: In mathematics, the midpoint rule, also known as the midpoint Riemann sum or midpoint method, is a method of estimating the integral of a function or the area under a curve by dividing the area into rectangles of equal width.
 
 ### `OpenMP`
