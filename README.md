@@ -7,32 +7,8 @@ The following parallel programming technologies are considered in practice:
   * `OpenMP`
   * `TBB`
 
-## Rules for submissions
-1. You are not supposed to trigger CI jobs by frequent updates of your pull request. First you should test you work locally with all the scripts (code style)
-    * Respect others time and don't slow down the job queue
-2. Carefully check if the program can hang
-
-## 1. Set up your environment
-### Static analysis of project
-  * **Windows (MSVC)**:
-  
-  Unsupported operating system!
-  
-  * **Linux (`gcc` and `clang`)**:
-  ```
-  sudo apt install cppcheck
-  ```
-  * **MacOS (apple clang)**:
-  ```
-  brew install cppcheck
-  ```
-
 ### Code style analysis
-Please, follow [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
-
-```
-pip install cpplint # (Python3)
-```
+[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
 
 ### Parallel programming technologies
 ### `MPI`
