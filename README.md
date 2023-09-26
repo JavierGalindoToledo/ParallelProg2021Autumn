@@ -1,5 +1,3 @@
-![Build application](https://github.com/allnes/pp_2021_autumn/workflows/Build%20application/badge.svg?branch=master)
-
 # Parallel Programming Course
 
 The following parallel programming technologies are considered in practice:
